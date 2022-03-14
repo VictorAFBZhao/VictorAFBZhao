@@ -1,4 +1,4 @@
-### Olá! me chamo Victor Alexander
+### Olá! me chamo Victor Alexander.
 
 - Estudante de Sistemas de Informação 
 - Atualmente estudando e me aprofundando em C#
