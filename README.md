@@ -31,12 +31,14 @@
   <a href= "https://instagram.com/victor_alexanderz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  
+  ![Snake animation](https://github.com/VictorAFBZhao/VictorAFBZhao/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###
 
 <br clear="both">
 
-![Snake animation](https://github.com/VictorAFBZhao/VictorAFBZhao/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
