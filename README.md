@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Victor Alexander and I'm a C# intern Programmer, from CMCorp IT Solutions</h2>
+<h2 align="left">Hi 👋! My name is Victor Alexander</h2>
 
 ###
 
