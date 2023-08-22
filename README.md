@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 My name is Victor Alexander</h2>
+<h2 align="left">Hello there!👋  I'm Victor Alexander, a Systems Information student and a passionate Data Science enthusiast.</h2>
 
 ###
 
