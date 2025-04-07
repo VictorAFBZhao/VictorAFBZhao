@@ -1,4 +1,4 @@
-<p align="left">👋 Olá, sou Victor Alexander!<br><br>🎓 Bacharel em Sistemas de Informação | 📊 Engenheiro de Dados em transição<br><br>Atualmente, atuo como Analista de Dados, migrando para Engenharia de Dados. Tenho experiência automação de processos com Python, e infraestrutura de dados em AWS e Docker, e criação de dashboards interativos no Power BI e visuais utilizando Figma.</p>
+<p align="left">👋 Olá, sou Victor Alexander!<br><br>🎓 Bacharel em Sistemas de Informação | 📊 Engenheiro de Dados<br><br>Atualmente, atuo como Analista de Dados, migrando para Engenharia de Dados. Tenho experiência automação de processos com Python, e infraestrutura de dados em AWS e Docker, e criação de dashboards interativos no Power BI e visuais utilizando Figma.</p>
 
 ###
 
